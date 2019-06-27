@@ -6,7 +6,7 @@ class HelloGit {
 
 	public static final helloGit(String str){
 
-		sysout("Hello Git .......Welcome........");
+		system.out.println("Hello Git .......Welcome........");
 	}
 	public static void main(String str[]){
 
@@ -16,7 +16,7 @@ class HelloGit {
 
 >>>>>>> idea
 }
-	void static myBigMethod(){
+	public void static myBigMethod(){
 		sysout("has a method impl");	
 	}
 }
