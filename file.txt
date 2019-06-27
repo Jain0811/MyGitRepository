@@ -5,18 +5,18 @@ class HelloGit {
 
 
 	public static final helloGit(String str){
->>>>>>> idea
+
 		sysout("Hello Git .......Welcome........");
 	}
 	public static void main(String str[]){
 
-<<<<<<< HEAD
+
 	
 	HelloGit.helloGit("hello");
 
 >>>>>>> idea
 }
-	void myBigMethod(){
+	void static myBigMethod(){
 		sysout("has a method impl");	
 	}
 }
