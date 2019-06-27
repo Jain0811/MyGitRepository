@@ -3,13 +3,18 @@
 
 class HelloGit {
 
-	stativ void helloGit(){
+
+	public static final helloGit(String str){
+>>>>>>> idea
 		sysout("Hello Git .......Welcome........");
 	}
 	public static void main(String str[]){
 
+<<<<<<< HEAD
 	
-	HelloGit.helloGit();
+	HelloGit.helloGit("hello");
+
+>>>>>>> idea
 }
 	void myBigMethod(){
 		sysout("has a method impl");	
