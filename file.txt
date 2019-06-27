@@ -11,4 +11,9 @@ class HelloGit {
 	HelloGit obj = new HelloGit();
 	onj.helloGit();
 }
+	void myBigMethod(){
+		sysout("has a method impl");	
+	}
 }
+
+	
